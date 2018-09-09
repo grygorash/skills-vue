@@ -142,9 +142,4 @@
             transform: scale(1);
         }
     }
-
-    i {
-        float: right;
-        cursor: pointer;
-    }
 </style>
